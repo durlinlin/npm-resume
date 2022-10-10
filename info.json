@@ -1,0 +1,24 @@
+{
+  "name": "Lin Lin Lam",
+  "website": "https://github.com/durlinlin",
+  "linkedin": "www.linkedin.com/in/linlinlam",
+  "github": "durlinlin",
+  "email": "linlin.lam01@gmail.com",
+  "resume": "https://docs.google.com/document/d/1aBCd0FGdwg5pAf527E9Ttm5Smj9khj7a641xHsctqlg/edit?usp=sharing",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "CSS",
+      "HTML"
+  ],
+  "Hobbies": [
+      "Water Painting",
+      "Calligraphy",
+      "Food adventures"
+  ]
+}
